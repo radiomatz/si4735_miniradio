@@ -1,6 +1,17 @@
 MIT License
 
-Copyright (c) 2026 Matthias
+
+ * @see [General Documentation](https://pu2clr.github.io/SI4735/)
+ * @see [Schematics](https://pu2clr.github.io/SI4735/extras/schematic/)
+ * @see Si47XX PROGRAMMING GUIDE AN332 (REV 1.0): https://www.silabs.com/documents/public/application-notes/AN332.pdf
+ * @see AN332 REV 0.8 UNIVERSAL PROGRAMMING GUIDE; AMENDMENT FOR SI4735-D60 SSB AND NBFM PATCHES
+ * 
+ * @author PU2CLR - Ricardo Lima Caratti 
+ * @date  2019-2020
+ * @copyright MIT Free Software model. See [Copyright (c) 2019 Ricardo Lima Caratti](https://pu2clr.github.io/SI4735/#mit-license). 
+
+
+Copyright (c) 2026 Matthias, greater part ot this is copyright of PU2CLR et al
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
