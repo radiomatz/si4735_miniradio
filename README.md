@@ -3,6 +3,21 @@ SI4735-D60 Circuit and Arduino Sketech for Building a SW/FM Radio with 150kHz..3
 
 <img src="pics/testcircuit.jpg>
 
+### used Hardware
+- Atmega 328P-PU with its internal 8 MHz
+- SI4735-D60-GU
+- LM386 Dip
+- LM1117 3.3 Volts
+- SMD Capacitors all 0805
+- Elkos all tht, mnost low profile or layed flat
+- Quartz 32k Clock Crystal
+
+### Software needed
+- Arduino Studio Version 2
+- addon for MiniCore (support for single 328 Chips)
+- tiny4k oled library and (6x8) font package
+
+
 ### some details
 - i am using a 7.2V LiPo, which is directly connencted to the lm386 - it can have about 5-12V
 - the mcu and the radio chip SI4735-D60-GU is driven with a LM1117-3.3 with 3.3V, that is important for the SI4735, and enough for an ATMEGA328
